@@ -5,5 +5,6 @@ I'm the founder of [Story.ai](https://story.ai) where we turn ideas into magic. 
 1. Start with the word processor (the tool _every single_ computer user understands)
 2. Infuse it with a conversational AI that brings the document to life by painting it with colorful understanding.
 3. Publish the story resulting in real-world tools, apps, workflows, databases, and automations.
+4. Take a deep breath and enjoy the present moment.
 
-My mother thinks it's cool.
+Want to help us? Email me.
